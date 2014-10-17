@@ -1,0 +1,8 @@
+.tile{height:200px; width:200px; 
+border:1px solid black;
+background-image:url(flag.png);}
+#pos1{
+background-position:10px 130px;}
+
+#pos2{
+background-position:100px 130px;}
